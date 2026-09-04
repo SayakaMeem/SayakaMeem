@@ -310,7 +310,7 @@ Data Analysis
 </picture>
 
 </div>
----
+
 
 # 🤝 Open to Collaboration
 
