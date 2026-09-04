@@ -155,39 +155,7 @@ Projects are arranged to highlight **technical depth, completeness, originality,
 
 > **Note:** Fork/reference repositories are included for completeness but are kept below original engineering projects.
 
----
 
-# 🌟 Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/SayakaMeem/EthereumHeist-System">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SayakaMeem&repo=EthereumHeist-System&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/SayakaMeem/RightsChain-X">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SayakaMeem&repo=RightsChain-X&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/SayakaMeem/ComWebP">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SayakaMeem&repo=ComWebP&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/SayakaMeem/aura-fashion-ai">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SayakaMeem&repo=aura-fashion-ai&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/SayakaMeem/TaskFlow">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SayakaMeem&repo=TaskFlow&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/SayakaMeem/TokenMetricsDB">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SayakaMeem&repo=TokenMetricsDB&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
----
 
 # 📊 GitHub Developer Dashboard
 
