@@ -175,7 +175,6 @@ Projects are arranged to highlight **technical depth, completeness, originality,
 
 </div>
 
-> Language statistics reflect the composition of public repositories and are not a direct measurement of proficiency.
 
 ---
 
