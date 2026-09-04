@@ -169,9 +169,6 @@ Projects are arranged to highlight **technical depth, completeness, originality,
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SayakaMeem&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayakaMeem&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
 
 </div>
 
