@@ -224,13 +224,11 @@ Projects are arranged to highlight **technical depth, completeness, originality,
 
 <div align="center">
 
-<a href="https://github.com/SayakaMeem">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SayakaMeem&theme=tokyo-night&hide_border=true&area=true"
-    alt="Sayaka Alam GitHub Activity Graph"
-    width="100%"
-  />
-</a>
+<img
+  src="./profile-3d-contrib/profile-night-rainbow.svg"
+  alt="Sayaka Alam GitHub Contribution Activity"
+  width="100%"
+/>
 
 </div>
 
