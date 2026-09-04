@@ -188,17 +188,7 @@ Projects are arranged to highlight **technical depth, completeness, originality,
 </div>
 
 ---
-# 📈 Contribution Activity
 
-<div align="center">
-
-<img
-  src="./profile-3d-contrib/profile-night-rainbow.svg"
-  alt="Sayaka Alam GitHub Contribution Activity"
-  width="100%"
-/>
-
-</div>
 
 # 📊 Development Insights
 
