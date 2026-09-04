@@ -220,16 +220,19 @@ Projects are arranged to highlight **technical depth, completeness, originality,
 </div>
 
 ---
-
 # 📈 Contribution Activity
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SayakaMeem&theme=tokyo-night&hide_border=true&area=true"/>
+<a href="https://github.com/SayakaMeem">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SayakaMeem&theme=tokyo-night&hide_border=true&area=true"
+    alt="Sayaka Alam GitHub Activity Graph"
+    width="100%"
+  />
+</a>
 
 </div>
-
----
 
 # 📊 Development Insights
 
