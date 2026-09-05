@@ -60,30 +60,6 @@ I enjoy transforming ideas into complete applications through the full engineeri
 
 ---
 
-## 🧪 QA & SQA Expertise
-
-<div align="center">
-
-| Category | Skills |
-| :--- | :--- |
-| **Testing Types** | Manual Testing, Functional Testing, Regression Testing, Integration Testing, System Testing, UAT, CRUD Testing |
-| **API Testing** | Postman, REST API Testing, JSON Validation, Status Code Validation |
-| **Database Testing** | SQL Queries, Data Validation, CRUD Testing, Integrity Checking, Normalization |
-| **QA Process** | SDLC, STLC, Bug Life Cycle, Severity & Priority Analysis, Test Case Design, Defect Tracking |
-| **QA Tools** | Jira, Test Cases, Bug Reports, Test Documentation, Git, SQL |
-
-<br/>
-
-<img src="https://img.shields.io/badge/Manual_Testing-Expert-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-Bug_Tracking-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-Data_Validation-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Functional-Regression-00C853?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SDLC-STLC-30336B?style=for-the-badge"/>
-
-</div>
-
----
 
 ## 🛠️ Technical Skills — Complete Arsenal
 
@@ -120,6 +96,32 @@ I enjoy transforming ideas into complete applications through the full engineeri
 </div>
 
 ---
+
+## 🧪 QA & SQA Expertise
+
+<div align="center">
+
+| Category | Skills |
+| :--- | :--- |
+| **Testing Types** | Manual Testing, Functional Testing, Regression Testing, Integration Testing, System Testing, UAT, CRUD Testing |
+| **API Testing** | Postman, REST API Testing, JSON Validation, Status Code Validation |
+| **Database Testing** | SQL Queries, Data Validation, CRUD Testing, Integrity Checking, Normalization |
+| **QA Process** | SDLC, STLC, Bug Life Cycle, Severity & Priority Analysis, Test Case Design, Defect Tracking |
+| **QA Tools** | Jira, Test Cases, Bug Reports, Test Documentation, Git, SQL |
+
+<br/>
+
+<img src="https://img.shields.io/badge/Manual_Testing-Expert-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Postman-API_Testing-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-Bug_Tracking-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-Data_Validation-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Functional-Regression-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SDLC-STLC-30336B?style=for-the-badge"/>
+
+</div>
+
+---
+
 
 ## 🚀 Project Portfolio — All Features
 
