@@ -201,6 +201,8 @@ I enjoy transforming ideas into complete applications through the full engineeri
 
 ## 🏗️ Engineering Workflow
 
+   ## 🏗 Engineering Workflow
+
 ```mermaid
 flowchart LR
     A["💡 Idea"] --> B["🔍 Research"]
@@ -211,15 +213,8 @@ flowchart LR
     F --> G["🚀 Deployment"]
     G --> H["📊 Evaluation"]
     H --> I["♻ Improvement"]
-    I -. Iterate .-> C
-    style A fill:#FF6B6B,stroke:#fff,color:#fff
-    style B fill:#F9CA24,stroke:#000,color:#000
-    style C fill:#6AB04C,stroke:#fff,color:#fff
-    style D fill:#4834D4,stroke:#fff,color:#fff
-    style E fill:#686DE0,stroke:#fff,color:#fff
-    style F fill:#30336B,stroke:#fff,color:#fff
-    style G fill:#FF6B6B,stroke:#fff,color:#fff
-    style H fill:#F9CA24,stroke:#000,color:#000
+    I -.-> C
+```
 Here is the **code AFTER your mermaid part** - just append this to your file:
 
 ```markdown
