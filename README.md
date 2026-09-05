@@ -1,183 +1,6 @@
-Markdown
-<div align="center">
+Here is your **FINAL ONE LARGE FILE** with **ALL FEATURES** together - Old 24 Projects + Full Skills + QA Skills + Animations + Color + Motion. Copy this **ONE FILE** to your `README.md`:
 
-<!-- ===== 1. HEADER - COLORFUL ANIMATED ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,20:F9CA24,40:6AB04C,60:4834D4,80:686DE0,100:30336B&height=280&section=header&text=Sayaka%20Alam&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20%7C%20QA%20%7C%20SQA%20%7C%20AI%2FML%20%7C%20Blockchain%20%7C%20Security&descAlignY=55&descSize=16&animation=fadeIn"/>
-
-<!-- ===== 2. TYPING ANIMATION ===== -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=600&color=FF6B6B&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1100&height=100&lines=Building+%2B+Breaking+%2B+Testing+%3D+Perfect+Software+%F0%9F%9A%80;Full-Stack+Developer+%7C+Manual+QA+Tester+%7C+SQA+Engineer;AI%2FML+%7C+Computer+Vision+%7C+Blockchain+%7C+Cybersecurity;Turning+Ideas+into+Tested+%26+Scalable+Products" alt="Typing SVG" /></a>
-
-<br/>
-
-<!-- ===== 3. BADGES ===== -->
-<p>
-<img src="https://img.shields.io/badge/Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/>
-<img src="https://img.shields.io/badge/Portfolio-6AB04C?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-4834D4?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Available-For_Hire-F9CA24?style=for-the-badge&logo=rocket&logoColor=black"/>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=SayakaMeem&label=VIEWS&color=FF6B6B&style=flat-square&labelColor=30336B"/>
-<img src="https://img.shields.io/github/followers/SayakaMeem?label=FOLLOWERS&color=6AB04C&style=flat-square&labelColor=30336B"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-<!-- ===== 4. ABOUT ME SECTION ===== -->
-<table>
-<tr>
-<td width="58%" valign="top">
-
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
-
-I'm **Sayaka Alam**, CSE Graduate from **KUET** — a **Hybrid Engineer**.
-
-I don't just code, I **hunt bugs**. As a developer who tests and a tester who builds, I deliver **tested, secure, and scalable** products.
-
-```mermaid
-flowchart LR
-    A[💡 Idea] --> B[🏗 Build]
-    B --> C[🧪 Break/Test]
-    C --> D[🐛 Fix]
-    D --> E[🚀 Deploy]
-    E --> F[✨ Quality]
-    style A fill:#FF6B6B,stroke:#fff,color:#fff
-    style B fill:#F9CA24,stroke:#000,color:#000
-    style C fill:#6AB04C,stroke:#fff,color:#fff
-    style D fill:#4834D4,stroke:#fff,color:#fff
-    style E fill:#686DE0,stroke:#fff,color:#fff
-    style F fill:#30336B,stroke:#fff,color:#fff
-
-44 lines hidden
-🔥 Open for: SQA Engineer | Manual QA | Full-Stack | AI/ML | Blockchain
-📍 Chittagong, Bangladesh | 🟢 Immediate Joiner
-
-</td> <td width="42%" align="center" valign="top"> <img src="https://media.giphy.com/media/qgQUggAC3Pfvh6PiFJ/giphy.gif" width="90%"/> <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SayakaMeem&theme=radical&hide_border=true" width="100%"/> </div> </td> </tr> </table>
-<!-- ===== 5. THREE CORE EXPERTISE SECTION ===== --> <div align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBw4M/giphy.gif" width="30"/> My Universe of Skills
-</div> <table> <tr> <td width="33%" align="center" valign="top">
-<img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1U/giphy.gif" width="25"/> QA & SQA
-Quality Guardian
-
-<img src="https://skillicons.dev/icons?i=postman" width="35"/> <br/>
-Manual Testing<br/>
-Functional Regression<br/>
-Integration System UAT<br/>
-REST API JSON Validation<br/>
-SQL CRUD Data Validation<br/>
-Jira STLC Bug Life Cycle<br/>
-Severity & Priority
-
-</td> <td width="33%" align="center" valign="top">
-<img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="25"/> Full-Stack Dev
-Builder
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,dotnet" width="80"/> <br/>
-React.js Next.js Vite<br/>
-.NET 8 FastAPI Node.js<br/>
-Express Laravel PHP<br/>
-REST APIs Tailwind<br/>
-E-Commerce Dashboards<br/>
-Responsive Secure
-
-</td> <td width="33%" align="center" valign="top">
-<img src="https://media.giphy.com/media/kH1DBkPNyZQkK4oLNS/giphy.gif" width="25"/> AI / Blockchain
-Innovator
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" width="70"/> <br/>
-Computer Vision<br/>
-Machine Learning Deep Learning<br/>
-OpenCV Image Processing<br/>
-Ethereum AML Tracking<br/>
-Blockchain Analytics<br/>
-Healthcare AI
-
-</td> </tr> </table>
-<!-- ===== 6. FULL TECH STACK SECTION ===== -->
-🛠️ Full Tech Stack
-<div align="center">
-Programming Languages
-<br/>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,js,ts,php,swift&perline=9" />
-<br/><br/>
-
-Frontend Development
-<br/>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,bootstrap,tailwind" />
-<br/><br/>
-
-Backend & APIs
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet,laravel" />
-<br/><br/>
-
-AI / ML / Computer Vision
-<br/>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
-<br/>
-<code>Machine Learning</code> <code>Deep Learning</code> <code>Explainable AI</code> <code>Data Analysis</code>
-<br/><br/>
-
-Databases
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,firebase,supabase" />
-<br/><br/>
-
-QA Tools - My Bug Hunting Kit
-<br/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL_Testing-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Manual_QA-FF6B6B?style=for-the-badge&logo=testcafe&logoColor=white"/>
-<img src="https://img.shields.io/badge/API_Testing-F9CA24?style=for-the-badge&logo=fastapi&logoColor=black"/>
-<br/><br/>
-
-Tools & Platforms
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio,figma,docker,vercel,npm" />
-
-</div>
-<!-- ===== 7. PROJECTS SECTION ===== -->
-🚀 Projects - Built, Broken & Tested by Me
-<div align="center"> <a href="https://github.com/SayakaMeem/EthereumHeist-System"> <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SayakaMeem&repo=EthereumHeist-System&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=F9CA24" /> </a> <a href="https://github.com/SayakaMeem/ComWebP"> <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SayakaMeem&repo=ComWebP&theme=radical&hide_border=true&bg_color=0D1117&title_color=6AB04C&icon_color=4834D4" /> </a> <a href="https://github.com/SayakaMeem/RightsChain-X"> <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SayakaMeem&repo=RightsChain-X&theme=radical&hide_border=true&bg_color=0D1117&title_color=686DE0&icon_color=FF6B6B" /> </a> <a href="https://github.com/SayakaMeem/Drowsy-Driver-Detection-System"> <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SayakaMeem&repo=Drowsy-Driver-Detection-System&theme=radical&hide_border=true&bg_color=0D1117&title_color=F9CA24&icon_color=6AB04C" /> </a> </div>
-<!-- ===== 8. GITHUB ANALYTICS SECTION ===== -->
-📊 Animated GitHub Analytics
-<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SayakaMeem&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=F9CA24&count_private=true" /> <img width="49%" src="https://streak-stats.demolab.com?user=SayakaMeem&theme=radical&hide_border=true&border_radius=10&background=0D1117&ring=FF6B6B&fire=F9CA24&currStreakLabel=6AB04C" /> <br/> <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SayakaMeem&theme=radical"/> <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SayakaMeem&theme=radical"/> <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SayakaMeem&theme=radical&utcOffset=6"/> </div>
-<!-- ===== 9. SNAKE ANIMATION SECTION ===== --> <div align="center">
-🐍 Watch My Contribution Snake Eat Your Stars!
-<img src="https://raw.githubusercontent.com/SayakaMeem/SayakaMeem/output/github-contribution-grid-snake-dark.svg" width="100%"/> <br/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=F9CA24&background=0D111700&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Thanks+for+Visiting+My+Profile+%F0%9F%91%8B;Let's+Build+Something+Bug-Free+%26+Amazing;Star+%E2%AD%90+My+Repos+if+You+Like+My+Work!" /> </div>
-<!-- ===== 10. CONTACT & FOOTER SECTION ===== --> <div align="center">
-🤝 Let's Connect & Create Quality Software
-<table> <tr> <td align="center" width="50%"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80"/>
-Availability
-<br/>
-🟢 Immediate Joiner<br/>
-📍 Chittagong, Bangladesh<br/>
-💼 SQA | QA | Full-Stack<br/>
-🌍 Remote / On-site
-
-</td> <td align="center" width="50%">
-Quick Connect
-<br/><br/>
-<a href="mailto:sayakaalam6@gmail.com"><img src="https://img.shields.io/badge/Email_Me-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<br/>
-<a href="https://sayaka-portfolio-six.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6AB04C?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/sayaka-alam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-</td> </tr> </table> <br/> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:30336B,20:4834D4,40:686DE0,60:6AB04C,80:F9CA24,100:FF6B6B&height=160&section=footer&text=Quality%20is%20Not%20an%20Act%2C%20It%20is%20a%20Habit%20%E2%9C%A8&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn"/>
-<sub>© 2026 Sayaka Alam • Crafted with ❤️, Bugs 🐛 & Fixes 🔧</sub>
-
-</div>
-Code
-
-This is **all 10 sections together in 1 file** - Header, Typing, Badges, About, Skills, Tech Stack, Projects, Analytics, Snake, Contact/Footer - all colorful and animated.
-bring back all the feature in one code , not part part , give it one large file
-Today
-Here is your FINAL ONE LARGE FILE with ALL FEATURES together - Old 24 Projects + Full Skills + QA Skills + Animations + Color + Motion. Copy this ONE FILE to your README.md:
-
-Markdown
+```markdown
 <div align="center">
 
 <!-- HEADER -->
@@ -408,55 +231,116 @@ flowchart LR
     style F fill:#30336B,stroke:#fff,color:#fff
     style G fill:#FF6B6B,stroke:#fff,color:#fff
     style H fill:#F9CA24,stroke:#000,color:#000
+```
 
-225 lines hidden
-🧠 Technical Domains
-<table> <tr> <td width="25%" align="center">
-🤖 AI & ML
+---
+
+## 🧠 Technical Domains
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### 🤖 AI & ML
 Machine Learning<br/>Deep Learning<br/>Computer Vision<br/>Intelligent Systems
 
-</td> <td width="25%" align="center">
-💻 Software
+</td>
+<td width="25%" align="center">
+
+### 💻 Software
 Full-Stack<br/>Backend APIs<br/>System Design<br/>Databases
 
-</td> <td width="25%" align="center">
-🔐 Security
+</td>
+<td width="25%" align="center">
+
+### 🔐 Security
 Blockchain<br/>Cybersecurity<br/>Cryptography<br/>Data Integrity
 
-</td> <td width="25%" align="center">
-🔬 Research
+</td>
+<td width="25%" align="center">
+
+### 🔬 Research
 Applied AI<br/>Experimental Systems<br/>Research Software<br/>Data Analysis
 
-</td> </tr> </table>
-🔬 Currently Exploring
-<div align="center"> <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge"/> <img src="https://img.shields.io/badge/Computer_Vision-686DE0?style=for-the-badge&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/Explainable_AI-4834D4?style=for-the-badge"/> <img src="https://img.shields.io/badge/Blockchain_Security-30336B?style=for-the-badge&logo=ethereum&logoColor=white"/> <img src="https://img.shields.io/badge/Full--Stack_Engineering-6AB04C?style=for-the-badge"/> <img src="https://img.shields.io/badge/SQA_Automation-F9CA24?style=for-the-badge&labelColor=30336B"/> <img src="https://img.shields.io/badge/Research_Software-FF6B6B?style=for-the-badge"/> </div>
-🐍 Contribution Graph — Animated
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SayakaMeem/SayakaMeem/output/github-contribution-grid-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SayakaMeem/SayakaMeem/output/github-contribution-grid-snake.svg" /> <img alt="Snake" src="https://raw.githubusercontent.com/SayakaMeem/SayakaMeem/output/github-contribution-grid-snake-dark.svg" width="100%"/> </picture> <br/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=F9CA24&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+GitHub+profile+%F0%9F%91%8B;Explore+my+projects+and+repositories+%F0%9F%9A%80;Open+to+software%2C+AI+and+QA+collaborations+%F0%9F%A7%AA" /> </div>
-🤝 Open to Collaboration
+</td>
+</tr>
+</table>
+
+---
+
+## 🔬 Currently Exploring
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer_Vision-686DE0?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Explainable_AI-4834D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Blockchain_Security-30336B?style=for-the-badge&logo=ethereum&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full--Stack_Engineering-6AB04C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQA_Automation-F9CA24?style=for-the-badge&labelColor=30336B"/>
+<img src="https://img.shields.io/badge/Research_Software-FF6B6B?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Graph — Animated
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SayakaMeem/SayakaMeem/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SayakaMeem/SayakaMeem/output/github-contribution-grid-snake.svg" />
+  <img alt="Snake" src="https://raw.githubusercontent.com/SayakaMeem/SayakaMeem/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=F9CA24&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+GitHub+profile+%F0%9F%91%8B;Explore+my+projects+and+repositories+%F0%9F%9A%80;Open+to+software%2C+AI+and+QA+collaborations+%F0%9F%A7%AA" />
+
+</div>
+
+---
+
+## 🤝 Open to Collaboration
+
 I'm interested in collaborating on projects involving:
 
-🤖 Artificial Intelligence & Machine Learning
-👁️ Computer Vision
-⛓️ Blockchain Applications
-🔐 Cybersecurity
-💻 Full-Stack Development
-🧪 QA & SQA — Manual Testing, API Testing, SQL Validation
-⚙️ Backend & API Engineering
-📊 Data-Driven Applications
-🔬 Research Software
-🌐 Open-Source Projects
-🌐 Connect With Me — Availability
-<div align="center"> <table> <tr> <td align="center" width="50%"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80"/>
-Availability
+- 🤖 Artificial Intelligence & Machine Learning
+- 👁️ Computer Vision
+- ⛓️ Blockchain Applications
+- 🔐 Cybersecurity
+- 💻 Full-Stack Development
+- 🧪 QA & SQA — Manual Testing, API Testing, SQL Validation
+- ⚙️ Backend & API Engineering
+- 📊 Data-Driven Applications
+- 🔬 Research Software
+- 🌐 Open-Source Projects
+
+---
+
+## 🌐 Connect With Me — Availability
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80"/>
+
+**Availability**
 <br/>
-🟢 Immediately Available<br/>
+🟢 **Immediately Available**<br/>
 📍 Chittagong, Bangladesh<br/>
 💼 SQA | QA | Full-Stack | AI<br/>
 🌍 Remote & On-site<br/>
 💰 40k-60k Monthly | Hourly Available
 
-</td> <td align="center" width="50%">
-Quick Connect
+</td>
+<td align="center" width="50%">
+
+**Quick Connect**
 <br/><br/>
 <a href="mailto:sayakaalam6@gmail.com"><img src="https://img.shields.io/badge/Email_Me-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <br/>
@@ -464,20 +348,27 @@ Quick Connect
 <a href="https://www.linkedin.com/in/sayaka-alam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/SayakaMeem?tab=repositories"><img src="https://img.shields.io/badge/Explore_Projects-30336B?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-</td> </tr> </table> </div>
-<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:30336B,20:4834D4,40:686DE0,60:6AB04C,80:F9CA24,100:FF6B6B&height=160&section=footer&text=Quality%20is%20Not%20an%20Act%2C%20It%20is%20a%20Habit%20%E2%9C%A8%0ABuild%20%E2%80%A2%20Test%20%E2%80%A2%20Break%20%E2%80%A2%20Fix%20%E2%80%A2%20Deploy%20%E2%80%A2%20Improve&fontSize=16&fontColor=ffffff&fontAlignY=60&animation=fadeIn"/>
-Build • Experiment • Research • Learn • Improve • Test
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:30336B,20:4834D4,40:686DE0,60:6AB04C,80:F9CA24,100:FF6B6B&height=160&section=footer&text=Quality%20is%20Not%20an%20Act%2C%20It%20is%20a%20Habit%20%E2%9C%A8%0ABuild%20%E2%80%A2%20Test%20%E2%80%A2%20Break%20%E2%80%A2%20Fix%20%E2%80%A2%20Deploy%20%E2%80%A2%20Improve&fontSize=16&fontColor=ffffff&fontAlignY=60&animation=fadeIn"/>
+
+### Build • Experiment • Research • Learn • Improve • Test
+
 <sub>© 2026 Sayaka Alam • Crafted with ❤️, Bugs 🐛 & Fixes 🔧 • All Features In One File</sub>
 
 </div>
-Code
+```
 
 This is **100% complete ONE LARGE FILE** - it has:
 ✅ Old 24-project table + pin cards
 ✅ All programming languages, frontend, backend, AI/ML, DB, Tools
 ✅ NEW QA section from your CV (Postman, Jira, SQL, STLC, Bug Life Cycle)
 ✅ Colorful animated header/footer, typing animations, snake, mermaid workflow, streak, analytics, technical domains, collaboration, availability - everything together.
-
-1 line hidden
-
-
