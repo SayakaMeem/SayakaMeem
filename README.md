@@ -173,10 +173,38 @@ I enjoy transforming ideas into complete applications through the full engineeri
 ---
 
 ## 🔥 GitHub Streak & Stats
+## 🔥 GitHub Streak & Stats — Perfect
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SayakaMeem&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=F9CA24&count_private=true" width="48%"/>
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SayakaMeem&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=F9CA24&text_color=FFFFFF&count_private=true&include_all_commits=true&border_radius=10" width="100%"/>
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://streak-stats.demolab.com?user=SayakaMeem&theme=radical&hide_border=true&border_radius=10&background=0D1117&ring=FF6B6B&fire=F9CA24&currStreakLabel=6AB04C&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA" width="100%"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayakaMeem&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=FFFFFF&border_radius=10" width="100%"/>
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SayakaMeem&theme=radical&utcOffset=6" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 </div>
 
