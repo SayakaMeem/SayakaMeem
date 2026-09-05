@@ -125,8 +125,7 @@ I enjoy transforming ideas into complete applications through the full engineeri
 
 <div align="center">
 
-<a href="https://github.com/SayakaMeem/EthereumHeist-System"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SayakaMeem&repo=EthereumHeist-System&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=F9CA24"/></a>
-<a href="https://github.com/SayakaMeem/ComWebP"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=SayakaMeem&repo=ComWebP&theme=radical&hide_border=true&bg_color=0D1117&title_color=6AB04C&icon_color=4834D4"/></a>
+
 
 </div>
 
