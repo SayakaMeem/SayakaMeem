@@ -270,15 +270,12 @@ Applied AI<br/>Experimental Systems<br/>Research Software<br/>Data Analysis
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SayakaMeem/SayakaMeem/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SayakaMeem/SayakaMeem/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake" src="https://raw.githubusercontent.com/SayakaMeem/SayakaMeem/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</picture>
+<!-- USE YOUR OLD WORKING gh-pages PATH, NOT output -->
+<img src="https://raw.githubusercontent.com/SayakaMeem/SayakaMeem/gh-pages/github-contribution-grid-snake-dark.svg" width="100%" alt="snake"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=F9CA24&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+GitHub+profile+%F0%9F%91%8B;Explore+my+projects+and+repositories+%F0%9F%9A%80;Open+to+software%2C+AI+and+QA+collaborations+%F0%9F%A7%AA" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=F9CA24&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Explore+my+projects+%F0%9F%9A%80;Open+to+QA+and+Full-Stack+Collabs" />
 
 </div>
 
