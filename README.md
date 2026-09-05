@@ -171,16 +171,11 @@ I enjoy transforming ideas into complete applications through the full engineeri
 </div>
 
 ---
-
-## 🔥 GitHub Streak & Stats 
-
-
-
+## 🔥 GitHub Streak & Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SayakaMeem&theme=radical&hide_border=true&border_radius=10&background=0D1117&ring=FF6B6B&fire=F9CA24&currStreakLabel=6AB04C&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SayakaMeem&theme=radical&utcOffset=6" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=SayakaMeem&theme=radical&hide_border=true&border_radius=10&background=0D1117&ring=FF6B6B&fire=F9CA24&currStreakLabel=6AB04C&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA" width="70%"/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
