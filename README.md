@@ -1,17 +1,11 @@
-Here is your **FINAL ONE LARGE FILE** with **ALL FEATURES** together - Old 24 Projects + Full Skills + QA Skills + Animations + Color + Motion. Copy this **ONE FILE** to your `README.md`:
-
-```markdown
 <div align="center">
 
-<!-- HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,20:F9CA24,40:6AB04C,60:4834D4,80:686DE0,100:30336B&height=280&section=header&text=Sayaka%20Alam&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20%7C%20SQA%20%7C%20QA%20%7C%20AI%2FML%20%7C%20Blockchain%20%7C%20Cybersecurity&descAlignY=55&descSize=16&animation=fadeIn"/>
 
-<!-- TYPING ANIMATION -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=23&duration=2200&pause=700&color=FF6B6B&center=true&vCenter=true&multiline=true&repeat=true&width=1100&height=90&lines=Building+%2B+Breaking+%2B+Testing+%3D+Perfect+Software+%F0%9F%9A%80;Full-Stack+Developer+%7C+SQA+Engineer+%7C+Manual+QA+Tester;Blockchain+%7C+AI%2FML+%7C+Computer+Vision+%7C+Cybersecurity;Turning+Ideas+Into+Tested+%26+Scalable+Applications" />
 
 <br/>
 
-<!-- BADGES -->
 <a href="https://github.com/SayakaMeem"><img src="https://img.shields.io/badge/GitHub-SayakaMeem-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://github.com/SayakaMeem?tab=repositories"><img src="https://img.shields.io/badge/Repositories-24%2B-4834D4?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://github.com/SayakaMeem?tab=followers"><img src="https://img.shields.io/github/followers/SayakaMeem?label=Followers&style=for-the-badge&color=FF6B6B"/></a>
@@ -21,7 +15,6 @@ Here is your **FINAL ONE LARGE FILE** with **ALL FEATURES** together - Old 24 Pr
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-<!-- ABOUT ME -->
 <table>
 <tr>
 <td width="60%" valign="top">
@@ -50,7 +43,6 @@ I enjoy transforming ideas into complete applications through the full engineeri
 
 ---
 
-<!-- AREAS OF FOCUS -->
 ## 🎯 Areas of Focus
 
 <div align="center">
@@ -68,7 +60,6 @@ I enjoy transforming ideas into complete applications through the full engineeri
 
 ---
 
-<!-- QA EXPERTISE -->
 ## 🧪 QA & SQA Expertise — From CV
 
 <div align="center">
@@ -94,7 +85,6 @@ I enjoy transforming ideas into complete applications through the full engineeri
 
 ---
 
-<!-- ALL TECHNICAL SKILLS -->
 ## 🛠️ Technical Skills — Complete Arsenal
 
 ### 👨‍💻 Programming Languages
@@ -131,7 +121,6 @@ I enjoy transforming ideas into complete applications through the full engineeri
 
 ---
 
-<!-- PROJECT PORTFOLIO ALL 24 -->
 ## 🚀 Project Portfolio — All Features
 
 <div align="center">
@@ -231,6 +220,9 @@ flowchart LR
     style F fill:#30336B,stroke:#fff,color:#fff
     style G fill:#FF6B6B,stroke:#fff,color:#fff
     style H fill:#F9CA24,stroke:#000,color:#000
+Here is the **code AFTER your mermaid part** - just append this to your file:
+
+```markdown
 ```
 
 ---
@@ -365,10 +357,3 @@ I'm interested in collaborating on projects involving:
 <sub>© 2026 Sayaka Alam • Crafted with ❤️, Bugs 🐛 & Fixes 🔧 • All Features In One File</sub>
 
 </div>
-```
-
-This is **100% complete ONE LARGE FILE** - it has:
-✅ Old 24-project table + pin cards
-✅ All programming languages, frontend, backend, AI/ML, DB, Tools
-✅ NEW QA section from your CV (Postman, Jira, SQL, STLC, Bug Life Cycle)
-✅ Colorful animated header/footer, typing animations, snake, mermaid workflow, streak, analytics, technical domains, collaboration, availability - everything together.
