@@ -201,7 +201,7 @@ I enjoy transforming ideas into complete applications through the full engineeri
 
 ## 🏗️ Engineering Workflow
 
-   ## 🏗 Engineering Workflow
+  
 
 ```mermaid
 flowchart LR
