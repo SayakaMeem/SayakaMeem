@@ -166,11 +166,7 @@ I enjoy transforming ideas into complete applications through the full engineeri
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SayakaMeem&theme=radical"/>
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SayakaMeem&theme=radical&utcOffset=6"/>
 
-<br/>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SayakaMeem&theme=radical"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SayakaMeem&theme=radical"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SayakaMeem&theme=radical"/>
 
 </div>
 
