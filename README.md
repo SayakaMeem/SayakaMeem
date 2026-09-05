@@ -341,6 +341,6 @@ I'm interested in collaborating on projects involving:
 
 ### Build • Experiment • Research • Learn • Improve • Test
 
-<sub>© 2026 Sayaka Alam • Crafted with ❤️, Bugs 🐛 & Fixes 🔧 • All Features In One File</sub>
+<sub>© 2026 Sayaka Alam • Crafted with ❤️ Bugs 🐛 & Fixes 🔧 • All Features In One File</sub>
 
 </div>
