@@ -60,7 +60,7 @@ I enjoy transforming ideas into complete applications through the full engineeri
 
 ---
 
-## 🧪 QA & SQA Expertise — From CV
+## 🧪 QA & SQA Expertise
 
 <div align="center">
 
