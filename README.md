@@ -177,11 +177,10 @@ I enjoy transforming ideas into complete applications through the full engineeri
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=SayakaMeem&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=F9CA24&count_private=true" width="48%"/>
-<img src="https://streak-stats.demolab.com?user=SayakaMeem&theme=radical&hide_border=true&border_radius=10&background=0D1117&ring=FF6B6B&fire=F9CA24&currStreakLabel=6AB04C" width="48%"/>
 
 </div>
 
----
+
 
 ## 📊 Development Insights
 
