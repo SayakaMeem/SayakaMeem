@@ -215,11 +215,6 @@ flowchart LR
     H --> I["♻ Improvement"]
     I -.-> C
 ```
-Here is the **code AFTER your mermaid part** - just append this to your file:
-
-```markdown
-```
-
 ---
 
 ## 🧠 Technical Domains
