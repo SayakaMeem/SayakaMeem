@@ -112,23 +112,8 @@ Developer who Tests and Tester who Builds.
 
 ---
 
-## 🏗️ Engineering Workflow
 
-  
 
-```mermaid
-flowchart LR
-    A["💡 Idea"] --> B["🔍 Research"]
-    B --> C["📋 Requirements"]
-    C --> D["🏗 Architecture"]
-    D --> E["💻 Development"]
-    E --> F["🧪 Testing"]
-    F --> G["🚀 Deployment"]
-    G --> H["📊 Evaluation"]
-    H --> I["♻ Improvement"]
-    I -.-> C
-```
----
 
 ## 🧠 Technical Domains
 
