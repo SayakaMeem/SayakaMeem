@@ -24,7 +24,7 @@ Developer who Tests and Tester who Builds.
 
 **💡 Idea → 🔍 Research → 🏗 Design → 💻 Development → 🧪 Testing → 🚀 Deployment → 📊 Evaluation**
 
-**🟢 Immediately Available** for Full-time — Manual QA Tester, SQA Engineer, Software Testing roles.
+
 
 </td>
 <td width="40%" align="center">
