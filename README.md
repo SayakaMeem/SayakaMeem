@@ -174,34 +174,7 @@ Applied AI<br/>Experimental Systems<br/>Research Software<br/>Data Analysis
 
 ---
 
-## 🔬 Currently Exploring
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer_Vision-686DE0?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Explainable_AI-4834D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Blockchain_Security-30336B?style=for-the-badge&logo=ethereum&logoColor=white"/>
-<img src="https://img.shields.io/badge/Full--Stack_Engineering-6AB04C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQA_Automation-F9CA24?style=for-the-badge&labelColor=30336B"/>
-<img src="https://img.shields.io/badge/Research_Software-FF6B6B?style=for-the-badge"/>
-
-</div>
-
----
-
-## 🐍 Contribution Graph — Animated
-
-<div align="center">
-
-<!-- USE YOUR OLD WORKING gh-pages PATH, NOT output -->
-<img src="https://raw.githubusercontent.com/SayakaMeem/SayakaMeem/gh-pages/github-contribution-grid-snake-dark.svg" width="100%" alt="snake"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=F9CA24&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Explore+my+projects+%F0%9F%9A%80;Open+to+QA+and+Full-Stack+Collabs" />
-
-</div>
+#
 
 ---
 
@@ -222,26 +195,9 @@ I'm interested in collaborating on projects involving:
 
 ---
 
-## 🌐 Connect With Me — Availability
 
-<div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="80"/>
-
-**Availability**
-<br/>
-🟢 **Immediately Available**<br/>
-📍 Chittagong, Bangladesh<br/>
-💼 SQA | QA | Full-Stack | AI<br/>
-🌍 Remote & On-site<br/>
-💰 40k-60k Monthly | Hourly Available
-
-</td>
-<td align="center" width="50%">
 
 **Quick Connect**
 <br/><br/>
