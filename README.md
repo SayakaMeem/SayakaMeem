@@ -72,17 +72,7 @@ Developer who Tests and Tester who Builds.
 
 ---
 
-## 🧪 QA & SQA Expertise
 
-<div align="center">
-
-| Category | Skills |
-| :--- | :--- |
-| **Testing Types** | Manual Testing, Functional Testing, Regression Testing, Integration Testing, System Testing, UAT, CRUD Testing |
-| **API Testing** | Postman, REST API Testing, JSON Validation, Status Code Validation |
-| **Database Testing** | SQL Queries, Data Validation, CRUD Testing, Integrity Checking, Normalization |
-| **QA Process** | SDLC, STLC, Bug Life Cycle, Severity & Priority Analysis, Test Case Design, Defect Tracking |
-| **QA Tools** | Jira, Test Cases, Bug Reports, Test Documentation, Git, SQL |
 
 <br/>
 
