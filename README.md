@@ -11,100 +11,62 @@
 <a href="https://github.com/SayakaMeem?tab=followers"><img src="https://img.shields.io/github/followers/SayakaMeem?label=Followers&style=for-the-badge&color=FF6B6B"/></a>
 <img src="https://komarev.com/ghpvc/?username=SayakaMeem&label=Profile%20Views&color=F9CA24&style=for-the-badge&labelColor=30336B"/>
 
-</div>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-<table>
-<tr>
-<td width="60%" valign="top">
-
 ### 👩‍💻 About Me
-Developer who Tests and Tester who Builds.
+**Developer who Tests and Tester who Builds.**
 
+</div>
+
+<div align="center">
 
 ## 🛠️ Technical Skills — Complete Arsenal
 
 ### 👨‍💻 Programming Languages
-<div align="center">
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,cs,js,ts,php,swift&perline=9"/>
-</div>
 
 ### 🌐 Frontend Development
-<div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,bootstrap,tailwind&perline=9"/>
-</div>
 
 ### ⚙️ Backend & APIs
-<div align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,dotnet,laravel,php&perline=8"/>
-</div>
 
 ### 🤖 AI / ML / Computer Vision
-<div align="center">
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&perline=6"/>
 
-</div>
-
 ### 🗄️ Databases
-<div align="center">
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,firebase&perline=6"/>
-</div>
 
 ### 🔧 Tools, DevOps & Platforms
-<div align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio,figma,docker,vercel,npm&perline=9"/>
-</div>
 
 ---
 
-
-
-<br/>
-
-
-
-## 📊 GitHub Developer Dashboard
-
-<div align="center">
+## 📊 【entity-GitHub¦canonical_name=GitHub】 Developer Dashboard
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SayakaMeem&theme=radical"/>
 
-
-
-
-</div>
-
 ---
-## 🔥 GitHub Streak & Stats
 
-<div align="center">
+## 🔥 【entity-GitHub¦canonical_name=GitHub】 Streak & Stats
 
 <img src="https://streak-stats.demolab.com?user=SayakaMeem&theme=radical&hide_border=true&border_radius=10&background=0D1117&ring=FF6B6B&fire=F9CA24&currStreakLabel=6AB04C&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA" width="70%"/>
 
+<br/>
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-</div>
-
-
 ## 📊 Development Insights
-
-<div align="center">
 
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SayakaMeem&theme=radical"/>
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SayakaMeem&theme=radical"/>
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SayakaMeem&theme=radical&utcOffset=6"/>
 
-</div>
-
 ---
-
-
-
 
 ## 🧠 Technical Domains
 
-<table>
+<table align="center">
 <tr>
 <td width="25%" align="center">
 
@@ -135,39 +97,24 @@ Applied AI<br/>Experimental Systems<br/>Research Software<br/>Data Analysis
 
 ---
 
-#
-
----
-
 ## 🤝 Open to Collaboration
 
-
-
-
-
-
 **Quick Connect**
-<br/><br/>
-<a href="mailto:sayakaalam6@gmail.com"><img src="https://img.shields.io/badge/Email_Me-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
 <br/>
+
+<a href="mailto:sayakaalam6@gmail.com"><img src="https://img.shields.io/badge/Email_Me-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<br/><br/>
 <a href="https://sayaka-portfolio-six.vercel.app"><img src="https://img.shields.io/badge/Portfolio-6AB04C?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/sayaka-alam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/SayakaMeem?tab=repositories"><img src="https://img.shields.io/badge/Explore_Projects-30336B?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
+<br/><br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:30336B,20:4834D4,40:686DE0,60:6AB04C,80:F9CA24,100:FF6B6B&height=160&section=footer&text=Quality%20is%20Not%20an%20Act%2C%20It%20is%20a%20Habit%20%E2%9C%A8%0ABuild%20%E2%80%A2%20Test%20%E2%80%A2%20Break%20%E2%80%A2%20Fix%20%E2%80%A2%20Deploy%20%E2%80%A2%20Improve&fontSize=16&fontColor=ffffff&fontAlignY=60&animation=fadeIn"/>
 
 ### Build • Experiment • Research • Learn • Improve • Test
 
-<sub>© 2026 Sayaka Alam • Crafted with ❤️ Bugs 🐛 & Fixes 🔧 • All Features In One File</sub>
+<sub>© 2026 Sayaka Alam • Crafted with ❤ Bugs 🐛 & Fixes 🔧 • All Features In One File</sub>
 
 </div>
