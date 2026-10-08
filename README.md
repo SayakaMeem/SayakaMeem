@@ -39,24 +39,6 @@ I'm **Sayaka Alam**, CSE Graduate from **KUET** and a **Hybrid Engineer** — De
 
 ---
 
-## 🎯 Areas of Focus
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Software_Engineering-FF6B6B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Full--Stack_Development-6AB04C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/QA_SQA_Testing-F9CA24?style=for-the-badge&labelColor=30336B"/>
-<img src="https://img.shields.io/badge/Artificial_Intelligence-4834D4?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer_Vision-686DE0?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Blockchain-30336B?style=for-the-badge&logo=ethereum&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cybersecurity-DA1E28?style=for-the-badge"/>
-
-</div>
-
----
-
-
 ## 🛠️ Technical Skills — Complete Arsenal
 
 ### 👨‍💻 Programming Languages
