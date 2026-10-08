@@ -22,19 +22,6 @@
 ### 👩‍💻 About Me
 Developer who Tests and Tester who Builds.
 
-**💡 Idea → 🔍 Research → 🏗 Design → 💻 Development → 🧪 Testing → 🚀 Deployment → 📊 Evaluation**
-
-
-
-</td>
-<td width="40%" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SayakaMeem&theme=radical&hide_border=true" width="100%"/>
-<img src="https://streak-stats.demolab.com?user=SayakaMeem&theme=radical&hide_border=true&border_radius=8&background=0D1117&ring=FF6B6B&fire=F9CA24" width="100%"/>
-</td>
-</tr>
-</table>
-
----
 
 ## 🛠️ Technical Skills — Complete Arsenal
 
