@@ -180,20 +180,6 @@ Applied AI<br/>Experimental Systems<br/>Research Software<br/>Data Analysis
 
 ## 🤝 Open to Collaboration
 
-I'm interested in collaborating on projects involving:
-
-- 🤖 Artificial Intelligence & Machine Learning
-- 👁️ Computer Vision
-- ⛓️ Blockchain Applications
-- 🔐 Cybersecurity
-- 💻 Full-Stack Development
-- 🧪 QA & SQA — Manual Testing, API Testing, SQL Validation
-- ⚙️ Backend & API Engineering
-- 📊 Data-Driven Applications
-- 🔬 Research Software
-- 🌐 Open-Source Projects
-
----
 
 
 
