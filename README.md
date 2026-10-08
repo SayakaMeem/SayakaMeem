@@ -56,8 +56,7 @@ Developer who Tests and Tester who Builds.
 ### 🤖 AI / ML / Computer Vision
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&perline=6"/>
-<br/><br/>
-<code>Machine Learning</code> <code>Deep Learning</code> <code>Computer Vision</code> <code>Image Processing</code> <code>Data Analysis</code> <code>Explainable AI</code>
+
 </div>
 
 ### 🗄️ Databases
