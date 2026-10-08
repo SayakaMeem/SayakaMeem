@@ -25,10 +25,6 @@
 
 I'm **Sayaka Alam**, CSE Graduate from **KUET** and a **Hybrid Engineer** — Developer who Tests and Tester who Builds.
 
-My work spans **software engineering, full-stack development, QA/SQA, artificial intelligence, machine learning, computer vision, blockchain, cybersecurity, databases, networking, mobile applications, and research-oriented systems**.
-
-I enjoy transforming ideas into complete applications through the full engineering lifecycle:
-
 **💡 Idea → 🔍 Research → 🏗 Design → 💻 Development → 🧪 Testing → 🚀 Deployment → 📊 Evaluation**
 
 **🟢 Immediately Available** for Full-time — Manual QA Tester, SQA Engineer, Software Testing roles.
