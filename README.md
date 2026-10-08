@@ -20,10 +20,7 @@
 <td width="60%" valign="top">
 
 ### 👩‍💻 About Me
-
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfvh6PiFJ/giphy.gif" width="110"/>
-
-I'm **Sayaka Alam**, CSE Graduate from **KUET** and a **Hybrid Engineer** — Developer who Tests and Tester who Builds.
+Developer who Tests and Tester who Builds.
 
 **💡 Idea → 🔍 Research → 🏗 Design → 💻 Development → 🧪 Testing → 🚀 Deployment → 📊 Evaluation**
 
