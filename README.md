@@ -42,13 +42,13 @@
 
 ---
 
-## 📊 【entity-GitHub¦canonical_name=GitHub】 Developer Dashboard
+## 📊 Developer Dashboard
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SayakaMeem&theme=radical"/>
 
 ---
 
-## 🔥 【entity-GitHub¦canonical_name=GitHub】 Streak & Stats
+## 🔥 Streak & Stats
 
 <img src="https://streak-stats.demolab.com?user=SayakaMeem&theme=radical&hide_border=true&border_radius=10&background=0D1117&ring=FF6B6B&fire=F9CA24&currStreakLabel=6AB04C&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA" width="70%"/>
 
